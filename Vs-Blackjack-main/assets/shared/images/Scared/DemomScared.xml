@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DemomScared.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DemomScared0000" x="0" y="0" width="409" height="420" frameX="0" frameY="-27" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0001" x="0" y="0" width="409" height="420" frameX="0" frameY="-27" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0002" x="409" y="0" width="409" height="429" frameX="0" frameY="-17" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0003" x="409" y="0" width="409" height="429" frameX="0" frameY="-17" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0004" x="0" y="429" width="409" height="438" frameX="0" frameY="-8" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0005" x="0" y="429" width="409" height="438" frameX="0" frameY="-8" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0006" x="409" y="429" width="409" height="446" frameX="0" frameY="0" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0007" x="409" y="429" width="409" height="446" frameX="0" frameY="0" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0008" x="409" y="429" width="409" height="446" frameX="0" frameY="0" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0009" x="409" y="429" width="409" height="446" frameX="0" frameY="0" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0010" x="409" y="429" width="409" height="446" frameX="0" frameY="0" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0011" x="409" y="429" width="409" height="446" frameX="0" frameY="0" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0012" x="409" y="429" width="409" height="446" frameX="0" frameY="0" frameWidth="409" frameHeight="447"/>
+	<SubTexture name="DemomScared0013" x="409" y="429" width="409" height="446" frameX="0" frameY="0" frameWidth="409" frameHeight="447"/>
+</TextureAtlas>

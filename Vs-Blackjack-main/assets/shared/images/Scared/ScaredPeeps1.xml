@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScaredPeeps1.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BeepBopScared10000" x="0" y="0" width="931" height="854" frameX="0" frameY="-32" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10001" x="0" y="0" width="931" height="854" frameX="0" frameY="-32" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10002" x="931" y="0" width="931" height="866" frameX="0" frameY="-20" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10003" x="931" y="0" width="931" height="866" frameX="0" frameY="-20" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10004" x="0" y="866" width="931" height="878" frameX="0" frameY="-8" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10005" x="0" y="866" width="931" height="878" frameX="0" frameY="-8" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10006" x="931" y="866" width="931" height="885" frameX="0" frameY="0" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10007" x="931" y="866" width="931" height="885" frameX="0" frameY="0" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10008" x="931" y="866" width="931" height="885" frameX="0" frameY="0" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10009" x="931" y="866" width="931" height="885" frameX="0" frameY="0" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10010" x="931" y="866" width="931" height="885" frameX="0" frameY="0" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10011" x="931" y="866" width="931" height="885" frameX="0" frameY="0" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10012" x="931" y="866" width="931" height="885" frameX="0" frameY="0" frameWidth="931" frameHeight="886"/>
+	<SubTexture name="BeepBopScared10013" x="931" y="866" width="931" height="885" frameX="0" frameY="0" frameWidth="931" frameHeight="886"/>
+</TextureAtlas>

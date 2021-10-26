@@ -1,0 +1,48 @@
+{
+	"storyName": "Blackjack",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"riches",
+			"blackjack",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"double-or-nothing",
+			"blackjack",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"death-wish",
+			"blackjack",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

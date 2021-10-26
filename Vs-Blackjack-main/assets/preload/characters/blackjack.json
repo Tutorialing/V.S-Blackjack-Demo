@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				123
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BjIdleNEW",
+			"indices": []
+		},
+		{
+			"offsets": [
+				306,
+				122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Blackjack LEFT"
+		},
+		{
+			"offsets": [
+				115,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "blackjack RIGHT"
+		},
+		{
+			"offsets": [
+				237,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "blackjack DOWN"
+		},
+		{
+			"offsets": [
+				-28,
+				151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Blackjack UP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BlackJack_Assets",
+	"position": [
+		-190,
+		-260
+	],
+	"healthicon": "blackjack",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-100,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
